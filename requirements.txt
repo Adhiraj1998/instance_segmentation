@@ -1,0 +1,7 @@
+opencv-python
+glob3
+pandas
+matplotlib
+argparse
+future
+numpy
